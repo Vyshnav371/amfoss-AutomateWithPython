@@ -1,0 +1,73 @@
+Q1- The two boolean values are True and False. we can write them in an assignment statements and in conditions.
+
+Q2- The three operators are and,or,not
+
+Q3- And operator
+    Expression     |  Value
+    True and True  |   True
+    True and False |   False 
+    False and True |   False 
+    Fasle and False|   False 
+    
+    or operator
+    Expression    |  Value
+    True or True  |   True
+    True or False |   True 
+    False or True |   True 
+    Fasle or False|   False 
+    
+    not operator
+    Expression    |  Value
+    not True      |  False
+    not False     |  True
+    
+Q4- False
+    False
+    True
+    False
+    False
+    True
+    
+Q5- Comparison operators are
+    == - equivalence
+    >= - greater than or equal to
+    <= - less than or equal to
+    != - not equal to
+    >  - Greater than
+    <  - Less than
+    
+Q6- Assignment operator stores the value in RHS and store it in the
+    variable in the LHS, but the == checks if both values are 
+    equal and returns a boolean value
+    
+Q7- Condition is a flow control statement which evaluate a Boolean
+    expression and executes a statement based on the boolean obtained
+    we would usually use this when we want to execute a code only
+    when a particular condition is satisfied
+    
+Q8- Block 1
+     print('eggs')
+    if spam > 5:
+        print('bacon')
+    else:
+        print('ham')
+    print('spam')
+    
+    Block 2
+        print('bacon')
+        
+    Block-3
+        print('ham')
+
+Q10- ctrl+c
+
+Q11- break statement ignores the rest of the code and breaks out of the code
+     Continue statement dosent break out of the code but ignores the rest of the code and goes back to the start of the loop
+
+Q12- range(10) - loop executes 10 times
+     range(0,10)- loop executes from 10 times from 0 to 9 same as range(10)
+     range(0,10,1)- one specifies the step value to increase
+     
+Q14- spam.bacon()
+     
+   

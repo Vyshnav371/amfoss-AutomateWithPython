@@ -1,0 +1,31 @@
+Q1- * is the multiplication operator
+   'hello' is a string value
+   -88.8 is a float value
+   - is the subtraction operator
+   / is the division operator
+   + is the addition operator
+   5 is an int value
+   
+Q2- spam is a variable while 'spam' is a string
+
+Q3- Three datatypes are int,float and string
+
+Q4- expressions contain values and opertors. Expressions are generally
+    used to evaluate something and to return a single value
+
+Q5- expressions contain values and opertors, their purpose is to return a single value whereas assignment statements assign the particular value to a variable which can be used in our program later
+
+Q6- 21
+
+Q7- 'spamspamspam'
+    'spamspamspam'
+    
+Q8- eggs is valid as in obeys all the naming rules, but 100 does not as it starts with an integer
+
+Q9- int() - int
+    flloat() - float
+    str()   - string
+
+Q10- It gives an error as we are attempting to add an integer 99 to   strings
+     it can be fixed be converting 99 to '99' or str(99)
+     'I have eaten ' + '99' + ' burritos.'
