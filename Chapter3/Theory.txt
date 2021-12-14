@@ -1,0 +1,31 @@
+Q1- Functions are a great way to organize and group our code. we can use the same code multiple times with functions hence reducing the overall size of the code. It also makes it easy for debugging as all the values required are in the parameters and return statements
+
+Q2- The code in the function executes only when the function is called
+
+Q3- def
+
+Q4 Function is basically the code with parameters which will not execute by itself, unless called by a function call with arguements in ()
+
+Q5- There is only one global scope in python, but any number of local scopes
+
+Q6- The local scope variables gets destroyed and we cannot access them later
+
+Q7- the value that a function call evaluates to is called the return value of the function.
+    we can use it in a function by specifying
+    return <value>
+    
+Q8- None
+
+Q9 we cal give global before the variable
+
+Q10- None
+
+Q11- it imports the module areallyourpetsnamederic so we can use its functions in our program
+
+Q12- spam.bacon()
+
+Q13- We can use try and except method in which if the try value is not valid it goes to except condition
+
+Q14- Try clause contains the normal code that can contain an error in case there is an error it goes to the except clause which contains a different code for that case
+
+

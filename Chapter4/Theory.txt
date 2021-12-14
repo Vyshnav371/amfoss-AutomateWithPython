@@ -1,0 +1,36 @@
+Q1- [] signifies an empty list
+
+Q2- spam.insert(2,'hello')
+
+Q3-  'd'
+
+Q4-  'd'
+
+Q5- ['a', 'b']
+
+Q6- 1
+
+Q7- [3.14, 'cat', 11, 'cat', True, 99]
+
+Q8- [3.14, 11, 'cat', True, 99]
+
+Q9- + and *
+
+Q10- append() takes one arguement and adds it to the end of the list, whereas insert() takes two arguements i.e index and value, then it inserts the value in the specified index
+
+Q11- we can give del value or l.remove(). we can also use l.pop()
+
+Q12- List are very similar to strings. both are an ordered set of items and most of the functions like slicing concatenation len() can be used in both
+
+Q13- List is mutable whereas tuple is immutable.
+
+Q14- (42,)
+
+Q15- tuple(list) e.g tuple([1,2,3])
+     list(tuple) e.g list((1,2,3))
+     
+Q16- They contain the memory location to the value of the list
+
+Q17- copy.copy() copies the list whereas copy.deepcopy() copies the main list and also the inner lists.
+
+
