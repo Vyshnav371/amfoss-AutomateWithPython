@@ -1,0 +1,16 @@
+import re
+text=open('hello.txt','r')
+idk=text.read()
+regex=re.compile(r'(ADJECTIVE|NOUN|ADVERB|VERB)')
+l=regex.findall(idk)
+print(idk)
+print(l)
+for i in l:
+    print("ENTER",i,':')
+    a=input()
+    idk=idk.replace(i,a,1)
+print(idk)
+text.close()
+new=open('hello1.txt','w')
+new.write(idk)
+new.close()
