@@ -1,0 +1,12 @@
+import ezsheets
+file=input("enter file name to Upload")
+ss = ezsheets.upload(file)
+print("Succesfully Uploaded")
+s=input('enter URL or spreadsheet id')
+ss = ezsheets.Spreadsheet(s)
+ss.downloadAsExcel()
+ss.downloadAsODS()
+ss.downloadAsCSV()
+ss.downloadAsTSV()
+ss.downloadAsPDF()
+ss.downloadAsHTML()
